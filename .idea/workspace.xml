@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekjoonCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10926.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220420">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2588_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2588_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +44,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10926">
-    <configuration name="Baekjoon1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon1000" />
-      <module name="BaekjoonCoding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10869" />
+  <component name="RunManager" selected="Application.Baekjoon2588_2">
+    <configuration name="Baekjoon10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10430" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +59,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon18108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon18108" />
+      <module name="BaekjoonCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon2588_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2588_1" />
+      <module name="BaekjoonCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon2588_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2588_2" />
+      <module name="BaekjoonCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2588_2" />
+        <item itemvalue="Application.Baekjoon2588_1" />
+        <item itemvalue="Application.Baekjoon10430" />
+        <item itemvalue="Application.Baekjoon18108" />
         <item itemvalue="Application.Baekjoon10926" />
-        <item itemvalue="Application.Baekjoon10869" />
-        <item itemvalue="Application.Baekjoon1000" />
       </list>
     </recent_temporary>
   </component>
@@ -88,6 +99,21 @@
       <option name="presentableId" value="Default" />
       <updated>1650445680971</updated>
     </task>
+    <task id="LOCAL-00001" summary="백준 문제풀이 20220420">
+      <created>1650447189794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650447189794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="백준 문제풀이 20220420">
+      <created>1650447220272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650447220272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="백준 문제풀이 20220420" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220420" />
   </component>
 </project>
