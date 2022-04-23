@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220424">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon8393.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220424&#10;8393번 문제 - 합.&#10;1부터 n까지의 합을 구하시오">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon15552_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon10950.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon8393">
+  <component name="RunManager" selected="Application.Baekjoon15552_1">
     <configuration name="Baekjoon10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10950" />
       <module name="BaekjoonCoding" />
@@ -50,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2480" />
+    <configuration name="Baekjoon15552_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon15552_1" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2525" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2525" />
+    <configuration name="Baekjoon2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2480" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon15552_1" />
         <item itemvalue="Application.Baekjoon8393" />
         <item itemvalue="Application.Baekjoon10950" />
         <item itemvalue="Application.Baekjoon2739" />
         <item itemvalue="Application.Baekjoon2480" />
-        <item itemvalue="Application.Baekjoon2525" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650735443685</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="백준 문제풀이 20220424&#10;8393번 문제 - 합.&#10;1부터 n까지의 합을 구하시오">
+      <created>1650735876945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650735876945</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +165,7 @@
     <MESSAGE value="백준 문제풀이 20220420" />
     <MESSAGE value="백준 문제풀이 20220422" />
     <MESSAGE value="백준 문제풀이 20220424" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220424" />
+    <MESSAGE value="백준 문제풀이 20220424&#10;8393번 문제 - 합.&#10;1부터 n까지의 합을 구하시오" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220424&#10;8393번 문제 - 합.&#10;1부터 n까지의 합을 구하시오" />
   </component>
 </project>
