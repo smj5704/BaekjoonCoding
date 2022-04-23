@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220424">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon8393.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10950">
+  <component name="RunManager" selected="Application.Baekjoon8393">
     <configuration name="Baekjoon10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10950" />
       <module name="BaekjoonCoding" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2884" />
+    <configuration name="Baekjoon8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon8393" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon8393" />
         <item itemvalue="Application.Baekjoon10950" />
         <item itemvalue="Application.Baekjoon2739" />
         <item itemvalue="Application.Baekjoon2480" />
         <item itemvalue="Application.Baekjoon2525" />
-        <item itemvalue="Application.Baekjoon2884" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650734597770</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="백준 문제풀이 20220424">
+      <created>1650735443685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650735443685</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
