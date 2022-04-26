@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220426&#10;2742번 문제 &#10;n부터 1까지 한줄씩 출력하기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon11021.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220426&#10;11021번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : result">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon11022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon11021">
+  <component name="RunManager" selected="Application.Baekjoon11022">
     <configuration name="Baekjoon11021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11021" />
       <module name="BaekjoonCoding" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon15552_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon15552_1" />
+    <configuration name="Baekjoon11022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon11022" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon11022" />
         <item itemvalue="Application.Baekjoon11021" />
         <item itemvalue="Application.Baekjoon2742" />
         <item itemvalue="Application.Baekjoon2741" />
         <item itemvalue="Application.Baekjoon15552_2" />
-        <item itemvalue="Application.Baekjoon15552_1" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650965774548</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="백준 문제풀이 20220426&#10;11021번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : result">
+      <created>1650966595021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650966595021</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,18 @@
     <MESSAGE value="백준 문제풀이 20220426&#10;15552번 문제 - BufferReader로 푸는 방법 &#10;t번 만큼 a,b의 합을 구하기." />
     <MESSAGE value="백준 문제풀이 20220426&#10;2741번 문제 &#10;1부터 n까지 한줄씩 출력하기" />
     <MESSAGE value="백준 문제풀이 20220426&#10;2742번 문제 &#10;n부터 1까지 한줄씩 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220426&#10;2742번 문제 &#10;n부터 1까지 한줄씩 출력하기" />
+    <MESSAGE value="백준 문제풀이 20220426&#10;11021번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : result" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220426&#10;11021번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : result" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Baekjoon11022.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
