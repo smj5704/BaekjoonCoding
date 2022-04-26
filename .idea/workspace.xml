@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220426&#10;11022번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : A + B = result">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2438.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2439.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2438">
+  <component name="RunManager" selected="Application.Baekjoon2439">
     <configuration name="Baekjoon11021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon11021" />
       <module name="BaekjoonCoding" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2741" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2741" />
+    <configuration name="Baekjoon2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2439" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2439" />
         <item itemvalue="Application.Baekjoon2438" />
         <item itemvalue="Application.Baekjoon11022" />
         <item itemvalue="Application.Baekjoon11021" />
         <item itemvalue="Application.Baekjoon2742" />
-        <item itemvalue="Application.Baekjoon2741" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650983639914</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기">
+      <created>1650984212729</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650984212729</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +220,8 @@
     <MESSAGE value="백준 문제풀이 20220426&#10;2742번 문제 &#10;n부터 1까지 한줄씩 출력하기" />
     <MESSAGE value="백준 문제풀이 20220426&#10;11021번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : result" />
     <MESSAGE value="백준 문제풀이 20220426&#10;11022번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : A + B = result" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220426&#10;11022번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : A + B = result" />
+    <MESSAGE value="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
