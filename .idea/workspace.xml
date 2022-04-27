@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 2) BufferedReader사용">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10951_1.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220427&#10;10951번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;더이상 입력받을 값이 없을 때 &#10;출력을 끝낸다.&#10;-&gt; 방법 1) Scanner사용">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10951_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10951_1">
+  <component name="RunManager" selected="Application.Baekjoon10951_2">
     <configuration name="Baekjoon10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10871" />
       <module name="BaekjoonCoding" />
@@ -52,6 +52,13 @@
     </configuration>
     <configuration name="Baekjoon10951_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10951_1" />
+      <module name="BaekjoonCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon10951_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10951_2" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2439" />
-      <module name="BaekjoonCoding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon10951_2" />
         <item itemvalue="Application.Baekjoon10951_1" />
         <item itemvalue="Application.Baekjoon10952_2" />
         <item itemvalue="Application.Baekjoon10952_1" />
         <item itemvalue="Application.Baekjoon10871" />
-        <item itemvalue="Application.Baekjoon2439" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651066319636</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="백준 문제풀이 20220427&#10;10951번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;더이상 입력받을 값이 없을 때 &#10;출력을 끝낸다.&#10;-&gt; 방법 1) Scanner사용">
+      <created>1651066942239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651066942239</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +260,8 @@
     <MESSAGE value="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기." />
     <MESSAGE value="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 1) scanner사용" />
     <MESSAGE value="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 2) BufferedReader사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 2) BufferedReader사용" />
+    <MESSAGE value="백준 문제풀이 20220427&#10;10951번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;더이상 입력받을 값이 없을 때 &#10;출력을 끝낸다.&#10;-&gt; 방법 1) Scanner사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220427&#10;10951번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;더이상 입력받을 값이 없을 때 &#10;출력을 끝낸다.&#10;-&gt; 방법 1) Scanner사용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
