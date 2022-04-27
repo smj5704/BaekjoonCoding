@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220426&#10;2439번 문제 &#10;별찍기-2">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon10871.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기.">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon10952_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon10871">
+  <component name="RunManager" selected="Application.Baekjoon10952_1">
     <configuration name="Baekjoon10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon10871" />
       <module name="BaekjoonCoding" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon11021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon11021" />
+    <configuration name="Baekjoon10952_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon10952_1" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon10952_1" />
         <item itemvalue="Application.Baekjoon10871" />
         <item itemvalue="Application.Baekjoon2439" />
         <item itemvalue="Application.Baekjoon2438" />
         <item itemvalue="Application.Baekjoon11022" />
-        <item itemvalue="Application.Baekjoon11021" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650984627755</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기.">
+      <created>1650987065016</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1650987065016</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +236,8 @@
     <MESSAGE value="백준 문제풀이 20220426&#10;11022번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : A + B = result" />
     <MESSAGE value="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기" />
     <MESSAGE value="백준 문제풀이 20220426&#10;2439번 문제 &#10;별찍기-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220426&#10;2439번 문제 &#10;별찍기-2" />
+    <MESSAGE value="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기." />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
