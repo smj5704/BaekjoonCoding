@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Baekjoon1110 {
+public class Baekjoon1110_1 {
     public static void main(String[] args) {
+//        scanner방법
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
         sc.close();
         //        10보다 작은수를 입력하였을 때 0붙혀서 두자리수 만들기
-
         if(A < 10 ) A = A * 10;
         int copy = A;
         //            반복문 돌아간 횟수
