@@ -25,5 +25,6 @@ public class Baekjoon2577_2 {
         for(int v : arr) {
             System.out.println(v);
         }
+        br.close();
     }
 }
