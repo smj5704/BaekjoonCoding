@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기">
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220502&#10;2562번 문제 &#10;방법 1 ) scanner&#10;입력한 n개의 배열에서 최댓값을 찾고 그 최댓값이 배열에서 몇번쩨 원소인지 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2577_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2562_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon2562_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +46,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2577_1">
-    <configuration name="Baekjoon10818_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon10818_3" />
-      <module name="BaekjoonCoding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Baekjoon2577_2">
     <configuration name="Baekjoon18108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon18108" />
       <module name="BaekjoonCoding" />
@@ -82,13 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon2577_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2577_2" />
+      <module name="BaekjoonCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2577_2" />
         <item itemvalue="Application.Baekjoon2577_1" />
         <item itemvalue="Application.Baekjoon18108" />
         <item itemvalue="Application.Baekjoon2562_2" />
         <item itemvalue="Application.Baekjoon2562_1" />
-        <item itemvalue="Application.Baekjoon10818_3" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651488317129</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="백준 문제풀이 20220502&#10;2562번 문제 &#10;방법 1 ) scanner&#10;입력한 n개의 배열에서 최댓값을 찾고 그 최댓값이 배열에서 몇번쩨 원소인지 출력하기">
+      <created>1651488495683</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1651488495683</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +327,8 @@
     <MESSAGE value="백준 문제풀이 20220429&#10;10818번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;n개의 숫자 중에 최댓값 , 최소값 출력하기" />
     <MESSAGE value="백준 문제풀이 20220429&#10;10818번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;방법 3 ) 배열사용 x 즉시 비교&#10;n개의 숫자 중에 최댓값 , 최소값 출력하기" />
     <MESSAGE value="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기" />
+    <MESSAGE value="백준 문제풀이 20220502&#10;2562번 문제 &#10;방법 1 ) scanner&#10;입력한 n개의 배열에서 최댓값을 찾고 그 최댓값이 배열에서 몇번쩨 원소인지 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220502&#10;2562번 문제 &#10;방법 1 ) scanner&#10;입력한 n개의 배열에서 최댓값을 찾고 그 최댓값이 배열에서 몇번쩨 원소인지 출력하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
