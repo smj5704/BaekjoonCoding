@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220429&#10;10818번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;방법 3 ) 배열사용 x 즉시 비교&#10;n개의 숫자 중에 최댓값 , 최소값 출력하기">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2577.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2562_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon2562.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Baekjoon2562_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon2562_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2562" />
+    <configuration name="Baekjoon2562_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2562_1" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -277,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651213187080</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기">
+      <created>1651488317129</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651488317129</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +319,8 @@
     <MESSAGE value="백준 문제풀이 20220429&#10;1110번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;주어진 수가 10보다 작다면 앞에 0을 붙여 두 자리 수로 만들고, 각 자리의 숫자를 더한다. 그 다음, 주어진 수의 가장 오른쪽 자리 수와 앞에서 구한 합의 가장 오른쪽 자리 수를 이어 붙이면 새로운 수를 만들 수 있다." />
     <MESSAGE value="백준 문제풀이 20220429&#10;10818번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;n개의 숫자 중에 최댓값 , 최소값 출력하기" />
     <MESSAGE value="백준 문제풀이 20220429&#10;10818번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;방법 3 ) 배열사용 x 즉시 비교&#10;n개의 숫자 중에 최댓값 , 최소값 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220429&#10;10818번 문제 &#10;방법 1 ) scanner&#10;방법 2 ) bufferreader &#10;방법 3 ) 배열사용 x 즉시 비교&#10;n개의 숫자 중에 최댓값 , 최소값 출력하기" />
+    <MESSAGE value="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220429&#10;2577번 문제 &#10;방법 1 ) scanner&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
