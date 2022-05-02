@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220502&#10;15552_2, 18108번 문제재 업로드">
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon2562_2.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220502&#10;2563번 문제&#10;방법 2 ) BuffredReader&#10;n개의 배열에서 최댓값과 그 최댓값이 배열에서 몇 번 째 원소인지 출력">
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon2562_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2577_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baekjoon2577_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baekjoon2562_2">
+  <component name="RunManager" selected="Application.Baekjoon2562_3">
     <configuration name="Baekjoon18108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon18108" />
       <module name="BaekjoonCoding" />
@@ -55,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2562_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2562_1" />
+    <configuration name="Baekjoon2562_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2562_2" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2562_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon2562_2" />
+    <configuration name="Baekjoon2562_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon2562_3" />
       <module name="BaekjoonCoding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon2562_3" />
         <item itemvalue="Application.Baekjoon2562_2" />
         <item itemvalue="Application.Baekjoon2577_2" />
         <item itemvalue="Application.Baekjoon2577_1" />
         <item itemvalue="Application.Baekjoon18108" />
-        <item itemvalue="Application.Baekjoon2562_1" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651489638944</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="백준 문제풀이 20220502&#10;2563번 문제&#10;방법 2 ) BuffredReader&#10;n개의 배열에서 최댓값과 그 최댓값이 배열에서 몇 번 째 원소인지 출력">
+      <created>1651490426866</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1651490426866</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +326,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 문제풀이 20220420" />
     <MESSAGE value="백준 문제풀이 20220422" />
     <MESSAGE value="백준 문제풀이 20220424" />
     <MESSAGE value="백준 문제풀이 20220424&#10;8393번 문제 - 합.&#10;1부터 n까지의 합을 구하시오" />
@@ -345,7 +350,8 @@
     <MESSAGE value="백준 문제풀이 20220502&#10;2562번 문제 &#10;방법 1 ) scanner&#10;입력한 n개의 배열에서 최댓값을 찾고 그 최댓값이 배열에서 몇번쩨 원소인지 출력하기" />
     <MESSAGE value="백준 문제풀이 20220502&#10;2577번 문제 &#10;방법 2 ) BufferedReader&#10;세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하기" />
     <MESSAGE value="백준 문제풀이 20220502&#10;15552_2, 18108번 문제재 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220502&#10;15552_2, 18108번 문제재 업로드" />
+    <MESSAGE value="백준 문제풀이 20220502&#10;2563번 문제&#10;방법 2 ) BuffredReader&#10;n개의 배열에서 최댓값과 그 최댓값이 배열에서 몇 번 째 원소인지 출력" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220502&#10;2563번 문제&#10;방법 2 ) BuffredReader&#10;n개의 배열에서 최댓값과 그 최댓값이 배열에서 몇 번 째 원소인지 출력" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
