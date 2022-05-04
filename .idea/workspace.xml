@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="패키지 이동">
-      <change afterPath="$PROJECT_DIR$/src/Step4/Baekjoon3052_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Step4/Baekjoon3052_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Step4/Baekjoon3052_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Step4/Baekjoon1546_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Step4/Baekjoon1546_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Step4/Baekjoon1546_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2562_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Step4/Baekjoon2562_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2562_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Step4/Baekjoon2562_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,20 @@
       <recent name="Step1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon3052_1">
+  <component name="RunManager" selected="Application.Baekjoon1546_3">
+    <configuration name="Baekjoon1546_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon1546_3" />
+      <module name="BaekjoonCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Step4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon3052_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon3052_1" />
       <module name="BaekjoonCoding" />
@@ -71,9 +82,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Step4.Baekjoon2562_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon2562_2" />
+    <configuration name="Step4.Baekjoon1546_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon1546_1" />
       <module name="BaekjoonCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Step4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Step4.Baekjoon1546_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon1546_2" />
+      <module name="BaekjoonCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Step4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,27 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Step4.Baekjoon2577_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon2577_1" />
-      <module name="BaekjoonCoding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Step4.Baekjoon2577_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon2577_2" />
-      <module name="BaekjoonCoding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon3052_1" />
+        <item itemvalue="Application.Baekjoon1546_3" />
+        <item itemvalue="Application.Step4.Baekjoon1546_2" />
+        <item itemvalue="Application.Step4.Baekjoon1546_1" />
+        <item itemvalue="Application.Step4.Baekjoon3052_1" />
         <item itemvalue="Application.Step4.Baekjoon2562_3" />
-        <item itemvalue="Application.Step4.Baekjoon2562_2" />
-        <item itemvalue="Application.Step4.Baekjoon2577_2" />
-        <item itemvalue="Application.Step4.Baekjoon2577_1" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +358,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651523250140</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="백준 문제풀이 20220503&#10;3052번 문제&#10;방법 1) HashSet사용_scanner&#10;방법 2) HashSet사용_BufferReadered&#10;방법 3) boolean 배열 사용_BufferReadered">
+      <created>1651555493981</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1651555493981</updated>
+    </task>
+    <task id="LOCAL-00034" summary="패키지 이동">
+      <created>1651555639217</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651555639218</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,7 +387,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 문제풀이 20220424&#10;8393번 문제 - 합.&#10;1부터 n까지의 합을 구하시오" />
     <MESSAGE value="백준 문제풀이 20220424&#10;15552번 문제 - scanner로 푸는 방법 &#10;t번 만큼 a,b의 합을 구하기." />
     <MESSAGE value="백준 문제풀이 20220426&#10;15552번 문제 - BufferReader로 푸는 방법 &#10;t번 만큼 a,b의 합을 구하기." />
     <MESSAGE value="백준 문제풀이 20220426&#10;2741번 문제 &#10;1부터 n까지 한줄씩 출력하기" />
@@ -381,6 +410,7 @@
     <MESSAGE value="백준 문제풀이 20220502&#10;15552_2, 18108번 문제재 업로드" />
     <MESSAGE value="백준 문제풀이 20220502&#10;2563번 문제&#10;방법 2 ) BuffredReader&#10;n개의 배열에서 최댓값과 그 최댓값이 배열에서 몇 번 째 원소인지 출력" />
     <MESSAGE value="백준 문제풀이 20220502&#10;2563번 문제&#10;방법 3 ) BuffredReader2_배열사용x&#10;n개의 배열에서 최댓값과 그 최댓값이 배열에서 몇 번 째 원소인지 출력" />
+    <MESSAGE value="백준 문제풀이 20220503&#10;3052번 문제&#10;방법 1) HashSet사용_scanner&#10;방법 2) HashSet사용_BufferReadered&#10;방법 3) boolean 배열 사용_BufferReadered" />
     <MESSAGE value="패키지 이동" />
     <option name="LAST_COMMIT_MESSAGE" value="패키지 이동" />
   </component>
