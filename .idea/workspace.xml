@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220505&#10;4344번 문제&#10;n번째 케이스. &#10;학생점수가 들어있는 배열에서 평균이 넘는 점수가 그 배열에 몇 %를 차지하는가 &#10;방법 1) scanner&#10;방법 2) BufferReadered">
-      <change afterPath="$PROJECT_DIR$/src/Step5/Baekjoon15596.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220505&#10;15596번 문제&#10;정수 n개의 합&#10;정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오.">
+      <change afterPath="$PROJECT_DIR$/src/Step5/Baekjoon4673.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="Step1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon4344_2">
+  <component name="RunManager" selected="Application.Baekjoon4673">
     <configuration name="Baekjoon4344_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon4344_1" />
       <module name="BaekjoonCoding" />
@@ -73,6 +73,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Step4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon4673" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Step5.Baekjoon4673" />
+      <module name="BaekjoonCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Step5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Step4.Baekjoon1546_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Step4.Baekjoon1546_3" />
-      <module name="BaekjoonCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Step4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon4673" />
         <item itemvalue="Application.Baekjoon4344_2" />
         <item itemvalue="Application.Baekjoon4344_1" />
         <item itemvalue="Application.Baekjoon8958_2" />
         <item itemvalue="Application.Baekjoon8958_1" />
-        <item itemvalue="Application.Step4.Baekjoon1546_3" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651685731735</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="백준 문제풀이 20220505&#10;15596번 문제&#10;정수 n개의 합&#10;정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오.">
+      <created>1651686072370</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1651686072370</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 문제풀이 20220426&#10;2742번 문제 &#10;n부터 1까지 한줄씩 출력하기" />
     <MESSAGE value="백준 문제풀이 20220426&#10;11021번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : result" />
     <MESSAGE value="백준 문제풀이 20220426&#10;11022번 문제 &#10;A+B출력(n번 입력) - bufferreader방식.&#10;출력 ? CASE #i : A + B = result" />
     <MESSAGE value="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기" />
@@ -437,7 +443,8 @@
     <MESSAGE value="백준 문제풀이 20220504&#10;1546번 문제&#10;방법 1) sort()로 최댓값_scanner&#10;방법 2) sort()로 최댓값_BufferReadered&#10;방법 3) 배열 사용 x_BufferReadered" />
     <MESSAGE value="백준 문제풀이 20220504&#10;8958번 문제&#10;방법 1) scanner&#10;방법 2) BufferReadered_println()로 출력&#10;방법 3) BufferReadered_StringBuilder로 출력" />
     <MESSAGE value="백준 문제풀이 20220505&#10;4344번 문제&#10;n번째 케이스. &#10;학생점수가 들어있는 배열에서 평균이 넘는 점수가 그 배열에 몇 %를 차지하는가 &#10;방법 1) scanner&#10;방법 2) BufferReadered" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220505&#10;4344번 문제&#10;n번째 케이스. &#10;학생점수가 들어있는 배열에서 평균이 넘는 점수가 그 배열에 몇 %를 차지하는가 &#10;방법 1) scanner&#10;방법 2) BufferReadered" />
+    <MESSAGE value="백준 문제풀이 20220505&#10;15596번 문제&#10;정수 n개의 합&#10;정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오." />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220505&#10;15596번 문제&#10;정수 n개의 합&#10;정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
