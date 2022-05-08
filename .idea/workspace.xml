@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220508&#10;1065번 문제&#10;등차수열 (한수)&#10;n(&lt;1000)개이하의 숫자 중 &#10;각 자리수가 등차수열을 이룬 수 (한수)갯수를 카운팅.">
-      <change afterPath="$PROJECT_DIR$/src/Step6/Baekjoon11654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/Step6/Baekjoon11654_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652020161724</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기">
+      <created>1652020404177</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1652020404177</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 문제풀이 20220426&#10;2438번 문제 &#10;별찍기" />
     <MESSAGE value="백준 문제풀이 20220426&#10;2439번 문제 &#10;별찍기-2" />
     <MESSAGE value="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기." />
     <MESSAGE value="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 1) scanner사용" />
@@ -458,7 +463,8 @@
     <MESSAGE value="백준 문제풀이 20220505&#10;15596번 문제&#10;정수 n개의 합&#10;정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오." />
     <MESSAGE value="백준 문제풀이 20220507&#10;4673번 문제&#10;셀프 넘버.&#10;양의 정수 n에 대해서 d(n)을 n과 n의 각 자리수를 더하는 함수.&#10;n을 d(n)의 생성자라고 한다&#10;생성자가 없는 숫자를 셀프 넘버라고 한다.&#10;10000보다 작거나 같은 셀프 넘버를 한 줄에 하나씩 출력하는 프로그램을 작성하시오." />
     <MESSAGE value="백준 문제풀이 20220508&#10;1065번 문제&#10;등차수열 (한수)&#10;n(&lt;1000)개이하의 숫자 중 &#10;각 자리수가 등차수열을 이룬 수 (한수)갯수를 카운팅." />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220508&#10;1065번 문제&#10;등차수열 (한수)&#10;n(&lt;1000)개이하의 숫자 중 &#10;각 자리수가 등차수열을 이룬 수 (한수)갯수를 카운팅." />
+    <MESSAGE value="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
