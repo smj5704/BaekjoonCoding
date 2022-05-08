@@ -1,6 +1,6 @@
 package Step5;
 
-public class Baekjoon15596 {
+public class Baekjoon15596_1 {
     long sum(int[] a){
 //        a : 합을 구해야 하는 정수 n개가 저장되어있는 배열
         long sum = 0;
