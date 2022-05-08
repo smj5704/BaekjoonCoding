@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기_2 : System.in 사용">
-      <change afterPath="$PROJECT_DIR$/src/Step6/Baekjoon10809.java" afterDir="false" />
+    <list default="true" id="8ef06cdd-2be9-47e0-9359-287cf7b56aea" name="Changes" comment="백준 문제풀이 20220508&#10;10809번 문제&#10;각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오.">
+      <change afterPath="$PROJECT_DIR$/src/Step6/Baekjoon2675.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -432,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652020508293</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="백준 문제풀이 20220508&#10;10809번 문제&#10;각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오.">
+      <created>1652021435505</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1652021435505</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +454,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 문제풀이 20220427&#10;10871번 문제 &#10;N개수의  배열 중&#10;X보다 작은 값을 출력하기." />
     <MESSAGE value="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 1) scanner사용" />
     <MESSAGE value="백준 문제풀이 20220427&#10;10952번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;두 수가 모두 0일때 출력 끝. &#10;-&gt; 방법 2) BufferedReader사용" />
     <MESSAGE value="백준 문제풀이 20220427&#10;10951번 문제 &#10;두 수를 입력 받아서&#10;합을 출력시킴. &#10;더이상 입력받을 값이 없을 때 &#10;출력을 끝낸다.&#10;-&gt; 방법 1) Scanner사용" />
@@ -472,7 +478,8 @@
     <MESSAGE value="백준 문제풀이 20220508&#10;1065번 문제&#10;등차수열 (한수)&#10;n(&lt;1000)개이하의 숫자 중 &#10;각 자리수가 등차수열을 이룬 수 (한수)갯수를 카운팅." />
     <MESSAGE value="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기" />
     <MESSAGE value="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기_2 : System.in 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220508&#10;11654번 문제&#10;아스키 코드 출력하기_2 : System.in 사용" />
+    <MESSAGE value="백준 문제풀이 20220508&#10;10809번 문제&#10;각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오." />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 문제풀이 20220508&#10;10809번 문제&#10;각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
